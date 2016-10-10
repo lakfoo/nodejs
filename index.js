@@ -1,2 +1,2 @@
 #!/usr/bin/env node 
-CECI EST UN TESt
+CECI EST UN TEST
